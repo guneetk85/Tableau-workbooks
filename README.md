@@ -9,6 +9,7 @@ Data was stored in an excel file. I connected the data to tableau to generate th
 
 
 Global superstore-sales-Tableau-workbook
+
 The data was stored in excel and csv files and connected to tableau
 global superstore sales and global superstore returns files were joined using inner join 
 The following reports were generated:
